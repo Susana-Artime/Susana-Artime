@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello! I'm Susana
+
+🌱 I’m currently learning on Bootcamp Desarrollo Backend Factoria F5 (JAVA, Git,MYSQL...)
+🔭 I have worked with programming languages as PHP.
+🔭 I have taken courses in different programming languages (.NET,JAVA,MYSQL)
 
 <!--
 **Susana-Artime/Susana-Artime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
