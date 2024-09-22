@@ -1,7 +1,7 @@
 
 # Hello! I'm Susana :raised_hand_with_fingers_splayed:
 <picture>
-  img alt="Progaramando" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png">
+  <img alt="Progaramando" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png">
 </picture>
 
 ## About me
