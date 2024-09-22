@@ -1,8 +1,7 @@
 
 # Hello! I'm Susana :raised_hand_with_fingers_splayed:
 <picture>
-  <img alt="Programando" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png" width="100" height="100">
-</picture>
+  <img alt="Programando" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png" width="500" height="500">
 
 ## About me
 
