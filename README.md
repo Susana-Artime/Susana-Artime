@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning on Bootcamp Desarrollo Backend Factoria F5 (JAVA, Git,MYSQL...)
 - 🔭 I have worked with programming languages as PHP.
-- 🔭 I have taken courses in different programming languages (.NET,JAVA,MYSQL)
+- 🔭 I have taken courses in different programming languages (.NET,JAVA...)
 
 ## Current Stack
 <picture>
