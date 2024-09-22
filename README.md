@@ -1,8 +1,8 @@
 
 # Hello! I'm Susana :raised_hand_with_fingers_splayed:
 <picture>
-  <img alt="Programando" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png" width="500" height="500">
-
+  <img alt="Programando" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png" width="450" height="450">
+</picture>
 ## About me
 
 - 🌱 I’m currently learning on Bootcamp Desarrollo Backend Factoria F5 (JAVA, Git,MYSQL...)
