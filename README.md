@@ -6,17 +6,17 @@
 
 ## About me
 
-- 🌱 I’m currently learning on Bootcamp Desarrollo Backend Factoria F5 (JAVA, Git,MYSQL...)
-- 🔭 I have worked with programming languages as PHP.
+- 🌱 I’m currently learning on Bootcamp Desarrollo Backend Factoria F5 (JAVA, Git...)
+- 🔭 I have worked with programming languages: PHP,HTML,CSS and MySQL.
 - 🔭 I have taken courses in different programming languages (.NET,JAVA...)
 
 ## Current Stack
 <picture>
-  <img alt="PHP" src="">
+  <img alt="PHP" src="https://1drv.ms/i/s!Ah82rZWRqsFcgd4Slt2wHcP964nYWQ?e=4hTB0x">
 </picture>
 
 <picture>
-  <img alt="MySQL" src="https://api.onedrive.com/v1.0/drives/5cc1aa9195ad361f/items/5CC1AA9195AD361F!28433/thumbnails/0/c726x375/content/mysql.c726x375.png?prefer=noredirect%2Cclosestavailablesize&cb=2024-09-22T15%3A23%3A52.633Z&eh=Scenario%3AOneUp">
+  <img alt="MySQL" src="">
 </picture>
 
 ## Contact
