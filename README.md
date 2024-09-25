@@ -6,9 +6,9 @@
 
 ## About me
 
-- 🌱 I’m currently learning on Bootcamp Desarrollo Backend Factoria F5 (JAVA, Git...)
-- 🔭 I have worked with programming languages: PHP,HTML,CSS and MySQL.
-- 🔭 I have taken courses in different programming languages (.NET,JAVA...)
+- 🌱 I’m currently attending the Backend Development Bootcamp at Factoria F5, where I’m focusing on Java, Git, and other technologies.
+- 🔭 I have hands-on experience with programming languages like PHP, HTML, CSS, and MySQL.
+- 🔭 I’ve also completed courses in several other languages, including .NET and Java.
 
 ## Current Stack
 <picture>
